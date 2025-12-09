@@ -1,2 +1,3 @@
 README
-Lucas Rey Pachel
+Alumno: Lucas Rey Pachel
+Clase: Programación en Finanzas
